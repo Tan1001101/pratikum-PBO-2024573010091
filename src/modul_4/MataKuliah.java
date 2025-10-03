@@ -1,12 +1,12 @@
 package modul_4;
 
-public class mataKuliah {
+public class MataKuliah {
     private String kode;
     private String nama;
     private int sks;
     private Double nilai;
 
-    public mataKuliah(String kode, String nama, int sks){
+    public MataKuliah(String kode, String nama, int sks){
         this.kode = kode;
         this.nama = nama;
         this.sks = sks;
@@ -14,7 +14,7 @@ public class mataKuliah {
     }
 
     public String getKode(){
-        return nama;
+        return kode;
     }
 
     public String getNama(){

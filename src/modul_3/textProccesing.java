@@ -10,7 +10,7 @@ public class textProccesing {
 
         System.out.println("Data yang dimasukkan:");
         for (int i = 0; i < dataMahasiswa.length; i++) {
-            dataMahasiswa[i] = dataMahasiswa[i].trim(); // Menghilangkan spasi
+            dataMahasiswa[i] = dataMahasiswa[i].trim();
             System.out.println((i + 1) + ". " + dataMahasiswa[i]);
         }
 
