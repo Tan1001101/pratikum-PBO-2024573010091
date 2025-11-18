@@ -1,4 +1,4 @@
-# Laporan Modul 5: Inheritance
+# Laporan Modul 6: Inheritance
 **Mata Kuliah:** Praktikum Pemrograman Berorientasi Objek   
 **Nama:** Fathan Al Ghifari  
 **NIM:** 2024573010091  
