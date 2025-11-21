@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class LibraryManagementSystem {
     private static ArrayList<LibraryItem> libraryItems = new ArrayList<>();
-    private s1tatic Scanner scanner = new Scanner(System.in);
+    private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         initializeSampleData();
